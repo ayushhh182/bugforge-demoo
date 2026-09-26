@@ -5,4 +5,4 @@ USERS = {
 }
 
 def login(email):
-    return USERS[email]
+    return USERS[email.lower()]
