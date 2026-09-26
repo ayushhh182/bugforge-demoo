@@ -1,6 +1,6 @@
 USERS = {
     "anubhav@gmail.com": {
-        "name": "Anubhav"
+        "name": "anubhav"
     }
 }
 
